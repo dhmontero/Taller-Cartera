@@ -6,5 +6,18 @@
 		"EN_CUENTARZR_181": {
 			"name": "Cuenta"
 		}
+	},
+	"SSMMZ": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_MMBGNONYNCAHY_691": {
+				"name": "frmCliente"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }

@@ -12,6 +12,34 @@
 		}
 	},
 	"Forms": {
+		"T_MMBGNONYNCAHY_691": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTEYA_369": [
+					"AT31_EDADBAQA369",
+					"AT45_IDCLIENN369",
+					"AT83_NOMBREAY369",
+					"AT85_APELLIDO369"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMBGN_APELLIDOO_63947",
+				"LBL_MMBGN_EDADEJODD_59935",
+				"LBL_MMBGN_IDQKUHGYG_29129",
+				"LBL_MMBGN_NOMBREIMF_59761"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}

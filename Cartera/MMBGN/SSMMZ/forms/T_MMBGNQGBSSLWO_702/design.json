@@ -1,0 +1,233 @@
+{
+	"autoCrudStr": "F",
+	"cobisPattern": "None",
+	"cobisPatternId": 0,
+	"commands": [
+	],
+	"customEvents": [
+	],
+	"customizationLayer": 0,
+	"customizationLayerDescription": "ECU",
+	"graphicSupportStr": "F",
+	"header": null,
+	"id": {
+		"moduleId": "MMBGN",
+		"subModuleId": "SSMMZ",
+		"taskId": "T_MMBGNQGBSSLWO_702",
+		"version": "1.0.0"
+	},
+	"isCustomized": false,
+	"isImported": false,
+	"mainViewContainerId": "VC_FRMCUENTAA_616702",
+	"modeEnabled": 4095,
+	"name": {
+		"$ref": "../../../../MMBGN/relations/componentKeys.json#/SSMMZ/Forms/T_MMBGNQGBSSLWO_702/name"
+	},
+	"setFocus": false,
+	"tempSaveStr": "F",
+	"viewContainers": [
+		{
+			"breadcrumbs": "Automatic",
+			"collapsedStr": "F",
+			"colSpan": 1,
+			"columnsNum": 1,
+			"componentStyle": null,
+			"customEvents": [
+			],
+			"customizationLayer": 0,
+			"customizationLayerDescription": "ECU",
+			"enabled": 4095,
+			"id": {
+				"moduleId": "MMBGN",
+				"subModuleId": "SSMMZ",
+				"taskId": "T_MMBGNQGBSSLWO_702",
+				"taskVersion": "1.0.0",
+				"viewContainerId": "VC_FRMCUENTAA_616702"
+			},
+			"isCustomized": false,
+			"layoutType": "Group",
+			"name": "frmCuenta",
+			"options": 0,
+			"responsiveLayouts": null,
+			"responsivity": false,
+			"style": null,
+			"view": {
+				"groups": [
+					{
+						"collapsedStr": "F",
+						"colSpan": 1,
+						"columnsNum": 3,
+						"componentStyle": null,
+						"customEvents": [
+						],
+						"enabled": 4095,
+						"entity": {
+							"$ref": "../../../../MMBGN/entities/EN_CUENTARZR_181.json#"
+						},
+						"eventType": 0,
+						"groupId": "G_FRMCUENTAT_623279",
+						"htmlSection": "F",
+						"independentValidation": "F",
+						"isCustomized": false,
+						"layoutType": "Group",
+						"name": "Group2244",
+						"order": 1,
+						"orientation": "V",
+						"responsiveLayouts": null,
+						"responsivity": false,
+						"style": null,
+						"visible": 4095,
+						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMBGN/entities/EN_CUENTARZR_181.json#/attributes/AT64_BANCONMT181"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMBGN/assets/languages/MMBGN.json#/MMBGN/LBL/LBL_MMBGN_BANCOQTUM_95003"
+									},
+									"labelId": "LBL_MMBGN_BANCOQTUM_95003",
+									"moduleId": "MMBGN"
+								},
+								"maxRecords": null,
+								"name": "banco",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_BANCOAEUTCWUWVA_898279",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMBGN/entities/EN_CUENTARZR_181.json#/attributes/AT90_SALDOFWO181"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMBGN/assets/languages/MMBGN.json#/MMBGN/LBL/LBL_MMBGN_SALDOPVXQ_68615"
+									},
+									"labelId": "LBL_MMBGN_SALDOPVXQ_68615",
+									"moduleId": "MMBGN"
+								},
+								"maxRecords": null,
+								"name": "saldo",
+								"options": 0,
+								"order": 3,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_SALDORDTWZKHYFX_259279",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../MMBGN/entities/EN_CUENTARZR_181.json#/attributes/AT12_TIPOCUEN181"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../MMBGN/assets/languages/MMBGN.json#/MMBGN/LBL/LBL_MMBGN_TIPOCUENA_66964"
+									},
+									"labelId": "LBL_MMBGN_TIPOCUENA_66964",
+									"moduleId": "MMBGN"
+								},
+								"maxRecords": null,
+								"name": "tipoCuenta",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_TIPOCUENTATXTQU_331279",
+								"width": null,
+								"widthComposite": "D"
+							}
+						]
+					}
+				],
+				"id": {
+					"version": "1.0.0",
+					"viewId": "VW_FRMCUENTAA_279"
+				},
+				"metadataVersion": "7.2.0.2020",
+				"modules": [
+					{
+						"moduleId": "MMBGN"
+					}
+				],
+				"name": "View of frmCuenta"
+			}
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_CUENTARZR_181",
+			"isContextEntity": null,
+			"moduleId": "MMBGN",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}

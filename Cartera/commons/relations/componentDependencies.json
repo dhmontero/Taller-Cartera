@@ -39,6 +39,32 @@
 			},
 			"subForms": [
 			]
+		},
+		"T_MMBGNQGBSSLWO_702": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CUENTARZR_181": [
+					"AT12_TIPOCUEN181",
+					"AT64_BANCONMT181",
+					"AT90_SALDOFWO181"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMBGN_BANCOQTUM_95003",
+				"LBL_MMBGN_SALDOPVXQ_68615",
+				"LBL_MMBGN_TIPOCUENA_66964"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
 		}
 	},
 	"Queries": {

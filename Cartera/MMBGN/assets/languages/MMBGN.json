@@ -2,9 +2,12 @@
 	"MMBGN": {
 		"LBL": {
 			"LBL_MMBGN_APELLIDOO_63947": "Apellido",
+			"LBL_MMBGN_BANCOQTUM_95003": "Banco",
 			"LBL_MMBGN_EDADEJODD_59935": "Edad",
 			"LBL_MMBGN_IDQKUHGYG_29129": "Id",
-			"LBL_MMBGN_NOMBREIMF_59761": "Nombre"
+			"LBL_MMBGN_NOMBREIMF_59761": "Nombre",
+			"LBL_MMBGN_SALDOPVXQ_68615": "Saldo",
+			"LBL_MMBGN_TIPOCUENA_66964": "Tipo Cuenta"
 		},
 		"MSG": {
 		}

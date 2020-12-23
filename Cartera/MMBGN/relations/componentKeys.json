@@ -13,6 +13,9 @@
 		"Forms": {
 			"T_MMBGNONYNCAHY_691": {
 				"name": "frmCliente"
+			},
+			"T_MMBGNQGBSSLWO_702": {
+				"name": "frmCuenta"
 			}
 		},
 		"Queries": {
